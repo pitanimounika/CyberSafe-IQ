@@ -4,7 +4,7 @@
 
 ### A modern scenario-based platform to evaluate cyber safety awareness
 
-🔗 **Live Demo:** [Click Here](ADD_VERCEL_LINK_HERE)
+🔗 **Live Demo:** [Click Here](https://cybersafe-iq.vercel.app/)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
