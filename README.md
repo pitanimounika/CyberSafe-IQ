@@ -1,55 +1,55 @@
 <div align="center">
 
-<img width="100" src="https://cdn-icons-png.flaticon.com/512/2716/2716652.png" />
+<img width="120" src="https://cdn-icons-png.flaticon.com/512/2716/2716652.png" />
 
-# CyberSafe IQ
+<h1>CyberSafe IQ</h1>
 
-#### Test your instincts. Outsmart the threats.
+<p>Test your instincts. Outsmart the threats.</p>
 
-**[🚀 Live Demo — Try it Now](ADD_VERCEL_LINK_HERE)**
+<a href="https://cybersafe-iq.vercel.app/"><strong>🚀 Live Demo — Try it Now »</strong></a>
 
 <br/>
+<br/>
 
-![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer_Motion-EF0078?style=for-the-badge&logo=framer&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+<img src="https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer_Motion-EF0078?style=for-the-badge&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
 </div>
 
+<br/>
+
 ---
 
-## 📌 What is CyberSafe IQ?
+## 📖 About
 
-**CyberSafe IQ** is a modern, interactive web platform that puts your cyber safety knowledge to the test.
+**CyberSafe IQ** is a modern interactive web platform that tests your cyber safety knowledge through real-world scenarios.
 
-You are placed in **real-world online situations** — a suspicious OTP request, a phishing email, a fake friend request — and you have **30 seconds to respond**.
+You are placed in situations like a suspicious OTP request, a phishing email, a fake friend request — and you have **30 seconds to respond**. The platform evaluates your awareness, decision making, and response quality — and gives you a detailed safety score with performance breakdown at the end.
 
-The platform then evaluates your **awareness**, **decision making**, and **response quality** — giving you a detailed safety score at the end.
-
-> Built for everyday users who want to understand and identify common online threats.
+> Designed for everyday users who want to understand, identify, and respond to common online threats confidently.
 
 ---
 
 ## ✨ Features
 
-| Feature | Details |
-|---|---|
-| 🎯 Scenario-Based Questions | 5 MCQ + 5 Written — all real-world situations |
-| ⏱️ Live Countdown Timer | 30 seconds per question with animated progress bar |
-| 🔒 Auto-Lock System | Answers lock on timeout — just like real decisions |
-| 📊 Result Dashboard | Animated score rings with full breakdown |
-| 📱 Fully Responsive | Mobile, Tablet and Desktop optimized |
-| 🎨 Cyber-Themed UI | Dark navy + cyan gradients + glassmorphism |
-| ✨ Smooth Animations | Powered by Framer Motion throughout |
+- 🎯 **10 Scenario-Based Questions** — 5 MCQ + 5 Written responses covering real online threats
+- ⏱️ **30 Second Live Timer** — Animated glowing countdown bar per question
+- 🔒 **Auto-Lock System** — Answers lock automatically on timeout, just like real decisions
+- 📊 **Detailed Result Dashboard** — Animated score rings showing Awareness, Response Quality and Overall score
+- 🏆 **Performance Levels** — Excellent, Good, Average and Needs Improvement
+- 📱 **Fully Responsive** — Perfectly works on Mobile, Tablet and Desktop
+- 🎨 **Cyber-Themed UI** — Dark navy background with cyan gradients and glassmorphism cards
+- ✨ **Smooth Animations** — Framer Motion powered page and question transitions throughout
 
 ---
 
 ## 🧩 Scenarios Covered
 
-| # | Topic | Type |
-|---|---|---|
+| No | Topic | Type |
+|:---:|:---|:---:|
 | 01 | OTP and Banking Scams | MCQ |
 | 02 | Fake Reward Popups | MCQ |
 | 03 | Requests from Online Strangers | MCQ |
@@ -63,10 +63,10 @@ The platform then evaluates your **awareness**, **decision making**, and **respo
 
 ---
 
-## 📊 How Scoring Works
-Final Score = ( Awareness × 60% ) + ( Response Quality × 40% )
-| Score | Performance Level |
-|---|---|
+## 📊 Scoring System
+Final Score  =  ( Awareness x 60% )  +  ( Response Quality x 40% )
+| Score Range | Performance Level |
+|:---:|:---:|
 | 85 – 100 | 🟢 Excellent |
 | 65 – 84 | 🔵 Good |
 | 45 – 64 | 🟡 Average |
@@ -75,62 +75,49 @@ Final Score = ( Awareness × 60% ) + ( Response Quality × 40% )
 ---
 
 ## 🛠️ Tech Stack
-Frontend       →   React 18
-Build Tool     →   Vite
-Animations     →   Framer Motion
-Icons          →   Lucide React
-Styling        →   CSS-in-JS ( Inline Styles )
-Deployment     →   Vercel
----
 
-## 📁 Project Structure
-CyberSafe-IQ/
-├── src/
-│   ├── App.jsx         ← entire application and all components
-│   └── main.jsx        ← entry point
-├── public/
-├── index.html
-├── package.json
-├── vite.config.js
-└── README.md
+| Technology | Purpose |
+|:---|:---|
+| React 18 | Frontend Framework |
+| Vite | Build Tool and Dev Server |
+| Framer Motion | Animations and Page Transitions |
+| Lucide React | Icon Library |
+| CSS-in-JS | Component Level Inline Styling |
+| Vercel | Deployment and Hosting |
+
 ---
 
 ## ⚙️ Run Locally
 
 ```bash
-# Clone the repository
-git clone https://github.com/YOUR_USERNAME/CyberSafe-IQ.git
-
-# Move into the folder
+git clone https://github.com/pitanimounika/CyberSafe-IQ.git
 cd CyberSafe-IQ
-
-# Install dependencies
 npm install
-
-# Start the development server
 npm run dev
 ```
 
-Open `http://localhost:5173` in your browser.
+Open **http://localhost:5173** in your browser.
 
 ---
 
-## 🚀 Deployment
+## 🚀 Live Demo
 
-This project is live and deployed on **Vercel**.
-
-🔗 **Live at →** [ADD_VERCEL_LINK_HERE](https://cybersafe-iq.vercel.app/)
+🔗 **[https://cybersafe-iq.vercel.app](https://cybersafe-iq.vercel.app)**
 
 ---
 
 <div align="center">
 
-### Found this useful? Drop a ⭐ on the repo — it means a lot!
+<br/>
+
+If this helped you, drop a ⭐ on the repo — it means a lot!
+
+<br/>
 
 **Built with ❤️ for cyber safety awareness**
 
 <br/>
 
-[🚀 Live Demo](https://cybersafe-iq.vercel.app/) • [👨‍💻 GitHub](https://github.com/pitanimounika)
+[🚀 Live Demo](https://cybersafe-iq.vercel.app) &nbsp;•&nbsp; [👨‍💻 GitHub](https://github.com/pitanimounika)
 
 </div>
